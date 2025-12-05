@@ -9,4 +9,5 @@ node_modules/
 dist/
 coverage/
 
-웹서비스 기획 PRD 문서_202021063 서영진.pdf
+# PDF 파일 무시
+*.pdf
